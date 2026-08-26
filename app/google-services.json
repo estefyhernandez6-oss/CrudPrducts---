@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "721264047858",
+    "firebase_url": "https://appcrud-fcd9f-default-rtdb.firebaseio.com",
+    "project_id": "appcrud-fcd9f",
+    "storage_bucket": "appcrud-fcd9f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721264047858:android:25629714aa8210abc2426b",
+        "android_client_info": {
+          "package_name": "app.kotlin.crudprducts1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs5ePvqGx_LN8mrnc4ObVQZ_p-1lvhGjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721264047858:android:b692c3791fa958c7c2426b",
+        "android_client_info": {
+          "package_name": "com.example.crudprducts1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs5ePvqGx_LN8mrnc4ObVQZ_p-1lvhGjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
